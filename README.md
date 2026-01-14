@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Samuel Del Fré
 
-CNRS postdoctoral researcher — ML potentials, atomistic simulations, interstellar ices, defects in metals, gas–surface scattering (NO/graphite).
+CNRS postdoctoral researcher @PhLAM lab — ML potentials, atomistic simulations, interstellar ices, defects in metals, gas–surface scattering (NO/graphite).
 
 - 🔬 Topics: ML interatomic potentials • Ab initio / Classical Molecular Dynamics • Density Functional Theory • Atomic descriptors & data science tools • Quantum Chemistry
 - 🔭 Applications: Photophysical processes in interstellar ices • Irradiation defects in metals • Gas–surface dynamics at molecular level
@@ -25,6 +25,8 @@ CNRS postdoctoral researcher — ML potentials, atomistic simulations, interstel
 - 🧰 Machine Learning potentials: DeePMD • AENET PyTorch • DScribe
 - 🧰 Python • HPC (SLURM/PBS) • PyTorch & Tensorflow 
 - 📍 France (EU)
+
+🌱 I am currently developing data-driven methods (dimensionality reduction, automated sampling, etc.) for efficient training-set generation of machine-learning potentials applied to gas–surface interactions, in particular NO scattering on graphite
 
 ## Contact
 - Google Scholar: Samuel Del Fré / ORCID: 0000-0002-4305-213X / Linkedin: www.linkedin.com/in/samuel-del-fre
