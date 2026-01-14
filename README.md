@@ -29,3 +29,7 @@ CNRS postdoctoral researcher — ML potentials, atomistic simulations, interstel
 ## Contact
 - Google Scholar: Samuel Del Fré / ORCID: 0000-0002-4305-213X / Linkedin: www.linkedin.com/in/samuel-del-fre
 - Email: samuel.del-fre@univ-lille.fr
+
+## Some highlights
+- **Project on data-driven defects detection in MD** — ([repo](#AE_UMAP_HDBSCAN)) - preprint: arXiv:2510.24523
+- **Query-by-Committee Active Learning for DeepMD** — ([repo](#QBC_AL))
