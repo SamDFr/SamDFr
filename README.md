@@ -31,5 +31,5 @@ CNRS postdoctoral researcher — ML potentials, atomistic simulations, interstel
 - Email: samuel.del-fre@univ-lille.fr
 
 ## Some highlights
-- **Project on data-driven defects detection in MD** — ([repo](#AE_UMAP_HDBSCAN)) - preprint: arXiv:2510.24523
+- **Project on data-driven defects detection in MD** — ([repo](https://github.com/SamDFr/AE_UMAP_HDBSCAN)) - preprint: [arXiv:2510.24523](https://arxiv.org/abs/2510.24523)
 - **Query-by-Committee Active Learning for DeepMD** — ([repo](https://github.com/SamDFr/QBC_AL_DeePMD))
