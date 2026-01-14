@@ -32,4 +32,4 @@ CNRS postdoctoral researcher — ML potentials, atomistic simulations, interstel
 
 ## Some highlights
 - **Project on data-driven defects detection in MD** — ([repo](#AE_UMAP_HDBSCAN)) - preprint: arXiv:2510.24523
-- **Query-by-Committee Active Learning for DeepMD** — ([repo](#QBC_AL))
+- **Query-by-Committee Active Learning for DeepMD** — ([repo](https://github.com/SamDFr/QBC_AL_DeePMD))
