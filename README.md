@@ -33,5 +33,5 @@ CNRS postdoctoral researcher @PhLAM lab — ML potentials, atomistic simulations
 - Email: samuel.del-fre@univ-lille.fr
 
 ## Some highlights
-- **Project on data-driven defects detection in MD** — ([repo](https://github.com/SamDFr/AE_UMAP_HDBSCAN)) - preprint: [arXiv:2510.24523](https://arxiv.org/abs/2510.24523)
-- **Query-by-Committee Active Learning for DeepMD** — ([repo](https://github.com/SamDFr/QBC_AL_DeePMD))
+- **Project on data-driven defects detection in MD** — ([repo](https://github.com/SamDFr/AE_UMAP_HDBSCAN)) - Article: [10.1016/j.commatsci.2026.114653](https://www.sciencedirect.com/science/article/abs/pii/S0927025626001722?via%3Dihub)
+- **Query-by-Committee Active Learning for DeepMD** — ([repo](https://github.com/SamDFr/QBC_AL_DeePMD)) - Preprint: [arXiv:2603.18864](https://arxiv.org/abs/2603.18864)
