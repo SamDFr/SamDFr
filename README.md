@@ -33,6 +33,6 @@ CNRS postdoctoral researcher @PhLAM lab — ML potentials, atomistic simulations
 - Email: samuel.del-fre@univ-lille.fr
 
 ## Some highlights
-- **Workflow for efficient DFT data sampling for automatisation of training set generation** - ([repo](https://github.com/SamDFr/data_sampling)) - Article: [10.1021/acs.jpcc.6c01815]([https://arxiv.org/abs/2603.18864](https://pubs.acs.org/doi/10.1021/acs.jpcc.6c01815)
+- **Workflow for efficient DFT data sampling for automatisation of training set generation** - ([repo](https://github.com/SamDFr/data_sampling)) - Article: [10.1021/acs.jpcc.6c01815](https://pubs.acs.org/doi/10.1021/acs.jpcc.6c01815)
 - **Project on data-driven defects detection in MD** — ([repo](https://github.com/SamDFr/AE_UMAP_HDBSCAN)) - Article: [10.1016/j.commatsci.2026.114653](https://www.sciencedirect.com/science/article/abs/pii/S0927025626001722?via%3Dihub)
 - **Query-by-Committee Active Learning for DeepMD** — ([repo](https://github.com/SamDFr/QBC_AL_DeePMD)) - Preprint: [arXiv:2603.18864](https://arxiv.org/abs/2603.18864)
