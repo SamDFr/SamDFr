@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Samuel Del Fré
 
-CNRS postdoctoral researcher @PhLAM lab — ML potentials, atomistic simulations, interstellar ices, defects in metals, gas–surface scattering (NO/graphite).
+R&D Engineer @Nextmol — ML potentials, atomistic simulations, interstellar ices, defects in metals, gas–surface scattering (NO/graphite).
 
 - 🔬 Topics: ML interatomic potentials • Ab initio / Classical Molecular Dynamics • Density Functional Theory • Atomic descriptors & data science tools • Quantum Chemistry
 - 🔭 Applications: Photophysical processes in interstellar ices • Irradiation defects in metals • Gas–surface dynamics at molecular level
@@ -30,7 +30,7 @@ CNRS postdoctoral researcher @PhLAM lab — ML potentials, atomistic simulations
 
 ## Contact
 - Google Scholar: Samuel Del Fré / ORCID: 0000-0002-4305-213X / Linkedin: www.linkedin.com/in/samuel-del-fre
-- Email: samuel.del-fre@univ-lille.fr
+- Email: samuel.delfre@nextmol.com
 
 ## Some highlights
 - **Workflow for efficient DFT data sampling for automatisation of training set generation** - ([repo](https://github.com/SamDFr/data_sampling)) - Article: [10.1021/acs.jpcc.6c01815](https://pubs.acs.org/doi/10.1021/acs.jpcc.6c01815)
